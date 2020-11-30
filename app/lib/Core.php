@@ -22,6 +22,7 @@ class Core{
         if(isset($url[1])){
             if(method_exists($this->controladorActual, $url[1])){
                 $this->metodoActual = $url[1];
+                unset($url[1]);
             }
         }
 
