@@ -8,7 +8,7 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://127.0.0.1');
+  define('URLROOT', 'http://127.0.0.1/MVCPJ');
   // Site Name
   define('SITENAME', 'localhost');
   // App Version

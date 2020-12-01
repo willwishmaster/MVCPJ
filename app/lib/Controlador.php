@@ -23,5 +23,4 @@
         die('La vista no existe');
       }
     }
-  }
-  ?>
+  } 
